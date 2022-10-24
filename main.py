@@ -3,7 +3,7 @@ import ssl
 import smtplib
 
 email_sender = 'shahzeb.nasir.memon@gmail.com'
-email_password = 'ggegffkigjknhjzk'
+email_password = 'Insert App Password Here'
 
 email_receiver = 'sabas13647@cadolls.com'  #Generate the email from temp-mail
 
